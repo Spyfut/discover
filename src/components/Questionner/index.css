@@ -1,0 +1,34 @@
+.questionner {
+    padding: 7%;
+    min-height: 4em;
+    font-size: 2.5em;
+    color: white;
+    font-family: 'calibri';
+    background-color:rgb(28, 110, 164);
+    font-weight:normal;
+    width: 75%;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    border-radius: 5px;
+    -webkit-box-shadow: inset 0px 0px 120px -20px rgb(0 0 0);
+    -moz-box-shadow: inset 0px 0px 120px -20px rgb(0 0 0);
+    box-shadow: inset 0px 0px 120px -20px rgb(0 0 0);
+
+}
+
+.questionner > a {
+    margin-bottom: 1em;
+}
+
+@media (max-width: 640px) {
+    .questionner {
+        min-height: 7em;
+        height: inherit;
+    }
+
+    .questionner p {
+        font-size: 0.9em;
+    }
+}

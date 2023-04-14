@@ -1,0 +1,220 @@
+{ 
+    "questions": [
+        {
+            "question" : "Un film qui vous rappelle beaucoup votre jeunesse"
+        },
+        {
+            "question" : "Une musique que vous pouvez écouter en boucle"
+        },
+        {
+            "question" : "Une célébrité qui vous inspire"
+        },
+        {
+            "question" : "Un loisir qui vous passionne"
+        },
+        {
+            "question" : "Le dernier livre que vous ayez lu"
+        },
+        {
+            "question" : "L'instrument que vous auriez aimé joué ou que vous préferez écouter"
+        },
+        {
+            "question" : "Le sport que vous avez préféré pratiquer"
+        },
+        {
+            "question" : "Le héros / l'héroïne de série ou film qui vous correspond le plus"
+        },
+        {
+            "question" : "Le prénom de votre meilleur(e) ami(e)"
+        },
+        {
+            "question" : "Le dvd que vous aimez mettre en avant sur vos étagères"
+        },
+        {
+            "question" : "Le jeu auquel vous pourriez jouer tout le temps"
+        },
+        {
+            "question" : "La dernière personne de votre journal d'appel"
+        },
+        {
+            "question" : "Votre film favoris avec Tom Hanks"
+        },
+        {
+            "question" : "La personne de votre famille que vous contactez le plus"
+        },
+        {
+            "question" : "Une émission que vous ne manquez jamais"
+        },
+        {
+            "question" : "Une ville en France que vous aimez particulièrement"
+        },
+        {
+            "question" : "Un pays que vous n'avez pas encore vu qui vous donne envie"
+        },
+        {
+            "question" : "La langue que vous aimeriez apprendre si vous en aviez le temps"
+        },
+        {
+            "question" : "Le dernier film que vous ayez vu ou revu avec Tom Cruise"
+        },
+        {
+            "question" : "Un sportif que vous détestez"
+        },
+        {
+            "question" : "L'acteur qui fait que vous n'irez pas voir ce film"
+        },
+        {
+            "question" : "Votre dernier achat" 
+        },
+        {
+            "question" : "Votre jour préféré de la semaine"
+        },
+        {
+            "question" : "La partie de votre corps que vous préferez"
+        },
+        {
+            "question" : "Votre deuxième prénom si vous en avez un"
+        },
+        {
+            "question" : "Un surnom ou diminutif que l'on vous donne"
+        },
+        {
+            "question" : "Le dernier cadeau que vous ayez fait"
+        },
+        {
+            "question" : "Le dernier cadeau que vous ayez reçu"
+        },
+        {
+            "question" : "Une qualité que vous pensez avoir"
+        },
+        {
+            "question" : "L'alcool que vous buvez le plus"
+        },
+        {
+            "question" : "La couleur de vos sous vêtements aujourd'hui"
+        },
+        {
+            "question" : "L'activité ménagère que vous appréciez le plus"
+        },
+        {
+            "question" : "Si vous pouviez choisir de ne plus jamais faire une activité ménagère ce serait ?"
+        },
+        {
+            "question" : "La saison que vous préferez"
+        },
+        {
+            "question" : "Un pays étranger où vous avez été et ou vous aimeriez retourner en priorité"
+        },
+        {
+            "question" : "Un paysage qui vous a marqué pendant vos voyages/vacances"
+        },
+        {
+            "question" : "Un monument que vous aimeriez voir une fois dans votre vie"
+        },
+        {
+            "question" : "Un plat que faisaient vos parents que vous voudriez encore"
+        },
+        {
+            "question" : "Un dessert qui arrive toujours à vous faire craquer"
+        },
+        {
+            "question" : "Un art que vous aimeriez essayer de pratiquer"
+        },
+        {
+            "question" : "La couleur que vous portez le plus"
+        },
+        {
+            "question" : "Un style de musique qui vous ennuie"
+        },
+        {
+            "question" : "Une chanson que vous connaissez par coeur jusqu'à la fin"
+        },
+        {
+            "question" : "Un film que vous avez aimé avec Robert De Niro"
+        },
+        {
+            "question" : "Votre parfum de glace fétiche"
+        },
+        {
+            "question" : "La boisson que vous consommez le plus à part l'eau plate"
+        },
+        {
+            "question" : "Le moment de la journée où vous vous douchez le plus souvent"
+        },
+        {
+            "question" : "Le dernier plat que vous ayez cuisiné"
+        },
+        {
+            "question" : "Une activité que vous faites souvent quand vous avez du temps seul"
+        },
+        {
+            "question" : "La chose qui vous manque le plus pendant un confinement"
+        },
+        {
+            "question" : "La dernière application téléchargée sur votre smartphone"
+        },
+        {
+            "question" : "La marque de votre ordinateur personnel"
+        },
+        {
+            "question" : "Votre personnage préféré de Harry Potter"
+        },
+        {
+            "question" : "La série que vous regardez en ce moment"
+        },
+        {
+            "question" : "Le dernier documentaire que vous ayez vu"
+        },
+        {
+            "question" : "Un humoriste que vous aimeriez voir / revoir en spectacle"
+        },
+        {
+            "question" : "Le dernier groupe / artiste vu en concert"
+        },
+        {
+            "question" : "Un pseudo que vous utilisez ou avez utilisé en ligne"
+        },
+        {
+            "question" : "Une actrice qui fait que vous aurez envie de voir ce prochain film"
+        },
+        {
+            "question" : "Le nom de votre parfum"
+        },
+        {
+            "question" : "Le nom de votre rue"
+        },
+        {
+            "question" : "Le prénom de votre grand père paternel"
+        },
+        {
+            "question" : "Le prénom de votre grand père maternel"
+        },
+        {
+            "question" : "Le prénom de votre grand mère paternelle"
+        },
+        {
+            "question" : "Le prénom de votre grand mère maternelle"
+        },
+        {
+            "question" : "Le nom de votre collège"
+        },
+        {
+            "question" : "Le nom de votre lycée"
+        },
+        {
+            "question" : "La matière que vous aimiez le moins au lycée"
+        },
+        {
+            "question" : "Le ou les sport(s) que vous avez pris au bac"
+        },
+        {
+            "question" : "Le premier endroit où vous avez travaillé"
+        },
+        {
+            "question" : "Le nom de votre premier patron"
+        },
+        {
+            "question" : "Un professeur que vous aimeriez revoir aujourd'hui"
+        }
+    ]
+}

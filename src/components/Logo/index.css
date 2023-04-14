@@ -1,0 +1,22 @@
+.logo {
+    font-size: 4em;
+    padding: 1em;
+    color: #323232;
+    font-weight: bold;
+    font-family: 'calibri';
+}
+
+/*.logo:after {
+    display: block;
+    content: "";
+    width: 2em;
+    border-bottom: 2px solid #323232;
+    margin: auto;
+    padding-top: 0.7em;
+}*/
+
+@media (max-width: 640px) {
+    .logo {
+        padding: 0.7em;
+    }
+}
